@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        img{
+        height: 100;
+        width: 80px;
+        padding: 10px;
+    }
+    #Box1{
+        border: solid black; 
+        position: static;
+        background-color: rgb(4, 244, 196);
+        width: 200px;
+        height: 200px;
+    }
+    #Box1{
+        border: solid black; 
+        position: static;
+        background-color: rgb(4, 255, 0);
+        width: 200px;
+        height: 200px;
+    }
+    #Box2{
+        border: solid black; 
+        position: static;
+        background-color: rgb(255, 98, 0);
+        width: 200px;
+        height: 200px;
+    }
+    #Box3{
+        border: solid black; 
+        position: static;
+        background-color: rgb(246, 9, 9);
+        width: 200px;
+        height: 200px;
+    }
+    #Box4{
+        border: solid black; 
+        position: static;
+        background-color: rgb(255, 0, 225);
+        width: 200px;
+        height: 200px;
+    }
+    #Box5{
+        border: solid black; 
+        position: static;
+        background-color: blueviolet;
+        width: 200px;
+        height: 200px;
+    }
+    #Box6{
+        border: solid black; 
+        position: static;
+        background-color: rgb(43, 226, 211);
+        width: 200px;
+        height: 200px;
+    }
+    #Box7{
+        border: solid black; 
+        position: static;
+        background-color: rgb(107, 189, 104);
+        width: 200px;
+        height: 200px;
+    }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <div id="Box1"><img src="./intyui/pecora1.jpg" alt=""></div> 
+   <br>
+   <div id="Box2"><img src="./intyui/pecora2.jpg" alt=""></div> 
+   <br>
+   <div id="Box3"><img src="./intyui/pecora3.jpg" alt=""></div>
+   <br>
+   <div id="Box4"><img src="./intyui/pecora4.jpg" alt=""></div>
+   <br>
+   <div id="Box5"><img src="./intyui/pecora5.jpg" alt=""></div>
+   <br>
+   <div id="Box6"><img src="./intyui/pecora6.jpg" alt=""></div>
+   <br>
+   <div id="Box7"><img src="./intyui/pecora7.jpg" alt=""></div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
